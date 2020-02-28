@@ -1,0 +1,61 @@
+.ClsCmp {
+  padding: 10px;
+  margin: 20px 0;
+  background-color: burlywood;
+  color: black;
+}
+
+.FnCmp {
+  padding: 10px;
+  margin: 20px 0;
+  background-color: cornflowerblue;
+  color: black;
+}
+
+.FnCmp button {
+  margin-right: 10px;
+}
+
+.ClsCmp button {
+  margin-right: 10px;
+}
+
+.FnCmp:hover {
+  background-color: #33c;
+  color: white;
+}
+
+.ClsCmp:hover {
+  background-color: chocolate;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
